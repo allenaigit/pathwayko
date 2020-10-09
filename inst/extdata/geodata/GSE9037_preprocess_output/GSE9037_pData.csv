@@ -1,0 +1,13 @@
+,title,organism,platform,source
+GSM229589,WT_BoneMarrowMacrophages_unstimulated_4hours_rep1,Mus musculus,GPL1261,"WT mouse bone marrow macrophages, unstimulated, 4 hours"
+GSM229590,WT_BoneMarrowMacrophages_unstimulated_4hours_rep2,Mus musculus,GPL1261,"WT mouse bone marrow macrophages, unstimulated, 4 hours"
+GSM229591,"WT_BoneMarrowMacrophages_LPS-stimulated_1hour_rep1,control",Mus musculus,GPL1261,"WT mouse bone marrow macrophages, LPS stimulated, 1 hour"
+GSM229592,"WT_BoneMarrowMacrophages_LPS-stimulated_1hour_rep2,control",Mus musculus,GPL1261,"WT mouse bone marrow macrophages, LPS stimulated, 1 hour"
+GSM229593,"WT_BoneMarrowMacrophages_LPS-stimulated_4hours_rep1,control",Mus musculus,GPL1261,"WT mouse bone marrow macrophages, LPS stimulated, 4 hours"
+GSM229594,"WT_BoneMarrowMacrophages_LPS-stimulated_4hours_rep2,control",Mus musculus,GPL1261,"WT mouse bone marrow macrophages, LPS stimulated, 4 hours"
+GSM229595,IRAK4-KD_BoneMarrowMacrophages_unstimulated_4hours_rep1,Mus musculus,GPL1261,"IRAK4 kinase dead mouse bone marrow macrophages, unstimulated, 4 hours"
+GSM229596,IRAK4-KD_BoneMarrowMacrophages_unstimulated_4hours_rep2,Mus musculus,GPL1261,"IRAK4 kinase dead mouse bone marrow macrophages, unstimulated, 4 hours"
+GSM229597,"IRAK4-KD_BoneMarrowMacrophages_LPS-stimulated_1hour_rep1,case",Mus musculus,GPL1261,"IRAK4 kinase dead mouse bone marrow macrophages, LPS stimulated, 1 hour"
+GSM229598,"IRAK4-KD_BoneMarrowMacrophages_LPS-stimulated_1hour_rep2,case",Mus musculus,GPL1261,"IRAK4 kinase dead mouse bone marrow macrophages, LPS stimulated, 1 hour"
+GSM229599,"IRAK4-KD_BoneMarrowMacrophages_LPS-stimulated_4hours_rep1,case",Mus musculus,GPL1261,"IRAK4 kinase dead mouse bone marrow macrophages, LPS stimulated, 4 hours"
+GSM229600,"IRAK4-KD_BoneMarrowMacrophages_LPS-stimulated_4hours_rep2,case",Mus musculus,GPL1261,"IRAK4 kinase dead mouse bone marrow macrophages, LPS stimulated, 4 hours"

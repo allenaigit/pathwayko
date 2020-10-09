@@ -1,0 +1,9 @@
+,title,organism,platform,source
+GSM157675,"unstimulated embryonic fibroblasts WT, biological rep1",Mus musculus,GPL1261,embryonic fibroblast basal transcription
+GSM157678,"unstimulated embryonic fibroblasts KO, biological rep1",Mus musculus,GPL1261,embryonic fibroblast basal transcription
+GSM157681,"stimulated embryonic fibroblasts WT, biological rep1,control",Mus musculus,GPL1261,embryonic fibroblast transcription profile 6 hours post interferon treatment
+GSM157682,"stimulated embryonic fibroblasts WT, biological rep2,control",Mus musculus,GPL1261,embryonic fibroblast transcription profile 6 hours post interferon treatment
+GSM157683,"stimulated embryonic fibroblasts WT, biological rep3,control",Mus musculus,GPL1261,embryonic fibroblast transcription profile 6 hours post interferon treatment
+GSM157684,"stimulated embryonic fibroblasts KO, biological rep1,case",Mus musculus,GPL1261,embryonic fibroblast transcription profile 6 hours post interferon treatment
+GSM157685,"stimulated embryonic fibroblasts KO, biological rep2,case",Mus musculus,GPL1261,embryonic fibroblast transcription profile 6 hours post interferon treatment
+GSM157686,"stimulated embryonic fibroblasts KO, biological rep3,case",Mus musculus,GPL1261,embryonic fibroblast transcription profile 6 hours post interferon treatment

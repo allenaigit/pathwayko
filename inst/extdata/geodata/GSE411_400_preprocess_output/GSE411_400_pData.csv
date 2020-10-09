@@ -1,0 +1,18 @@
+,title,organism,platform,source
+GSM6072,WT_IL-6_0_rep1,Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6073,"WT_IL-6_100_rep1,control2",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6074,"WT_IL-6_400_rep1,control1",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6075,KO_IL-6_0_rep1,Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6076,"KO_IL-6_100_rep1,case2",Mus musculus,GPL81,bone-marrow-derived macrophages
+GSM6077,"KO_IL-6_400_rep1,case1",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6078,WT_IL-6_0_rep2,Mus musculus,GPL81,boen marrow-derived macrophages
+GSM6079,"WT_IL-6_100_rep2,control2",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6080,"WT_IL-6_400_rep2,control1",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6081,KO_IL-6_0_rep2,Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6082,"KO_IL-6_100_rep2,case2",Mus musculus,GPL81,bone marrow-derived macropahges
+GSM6083,"KO_IL-6_400_rep2,case1",Mus musculus,GPL81,boen marrow-derived macrophages
+GSM6084,"WT_IL-6_100_rep3,control2",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6085,"WT_IL-6_400_rep3,control1",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6086,KO_IL-6_0_rep3,Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6087,"KO_IL-6_100_rep3,case2",Mus musculus,GPL81,bone marrow-derived macrophages
+GSM6088,"KO_IL-6_400_rep3,case1",Mus musculus,GPL81,bone marrow-derived macrophages

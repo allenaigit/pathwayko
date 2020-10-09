@@ -1,0 +1,17 @@
+Package: pathwayko
+Version: 0.1.1
+Title: PathwayKO: An R package for knock-out pathway enrichment analysis
+Description: PathwayKO is an R package for knock-out pathway enrichment analysis, excavating the true positive KO KEGG pathways that contain and are impacted by a KO gene at the system-level. It enables ROC curve-based statistics analysis for assessing the performance of methods in terms of AUC (area under ROC curve), partial AUCs, Youden's best p-value threshold, specificity, sensitivity, accuracy, precision and recall. It is flexible to incorporate custom methods and currently integrates the state-of-the-art SPIA, ROntoTools (PE and pDIS), PADOG, GSA, GESA and SAFE. A benchmark dataset of mouse 10 KO GEO datasets is embedded for demo. The PathwayKO package provides a novel solution to the knock-out pathway enrichment analysis.
+Authors@R: person("Hannan Ai", "Developer", role=c("cre","aut"), email="allenai94@icloud.com")
+Maintainer: Hannan Ai <allenai94@icloud.com>
+Depends: R (>= 4.0.0)
+Imports: stats, methods, graphics, graph, Biobase (>= 2.48.0), org.Mm.eg.db (>= 3.11.4), KEGGgraph (>= 1.48.0), Rgraphviz (>= 2.32.0), AnnotationDbi (>= 1.50.0), limma (>= 3.44.0), annotate (>= 1.66.0), oligo (>= 1.52.0), ggplot2 (>= 3.3.0), gridExtra (>= 2.3) , SPIA (>= 2.40.0), magick (>= 2.4.0), pROC (>= 1.16.0), RColorBrewer (>= 1.1-0), stringr (>= 1.4.0), changepoint (>= 2.2.0), igraph (>= 1.2.5), ROntoTools (>= 2.16.0), GSA (>= 1.03.0), PADOG (>= 1.30.0), fgsea (>= 1.14.0), safe (>= 3.28.0)
+Suggests: 
+    pathview (>= 1.28.0), GEOquery (>= 2.56.0), knitr, rmarkdown
+License: CC BY-NC-ND 4.0 + file LICENSE
+URL: https://github.com/allenaigit/pathwayko
+BugReports: https://github.com/allenaigit/pathwayko/issues
+LazyData: TRUE
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+VignetteBuilder: knitr

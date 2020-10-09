@@ -1,0 +1,13 @@
+,title,organism,platform,source
+GSM2526291,"wt, biological rep1",Mus musculus,GPL1261,wt mouse embryo
+GSM2526292,"wt, biological rep2",Mus musculus,GPL1261,wt mouse embryo
+GSM2526293,"wt, biological rep3",Mus musculus,GPL1261,wt mouse embryo
+GSM2526294,"p53, biological rep1,case1",Mus musculus,GPL1261,p53 mutant mouse embryo
+GSM2526295,"p53, biological rep2,case1",Mus musculus,GPL1261,p53 mutant mouse embryo
+GSM2526296,"p53, biological rep3,case1",Mus musculus,GPL1261,p53 mutant mouse embryo
+GSM2526297,"acd, biological rep1,case2",Mus musculus,GPL1261,acd mutant mouse embryo
+GSM2526298,"acd, biological rep2,case2",Mus musculus,GPL1261,acd mutant mouse embryo
+GSM2526299,"acd, biological rep3,case2",Mus musculus,GPL1261,acd mutant mouse embryo
+GSM2526300,"double, biological rep1,case3",Mus musculus,GPL1261,acd and p53 mutant mouse embryo
+GSM2526301,"double, biological rep2,case3",Mus musculus,GPL1261,acd and p53 mutant mouse embryo
+GSM2526302,"double, biological rep3,case3",Mus musculus,GPL1261,acd and p53 mutant mouse embryo
